@@ -26,4 +26,4 @@ BSD
 
 ## Feedback? Found a bug? Requests?
 
-Let us have it! http://github.com/Enrise/ansible-role-apache/issues
+Let us have it! http://github.com/Enrise/ansible-role-locale/issues
