@@ -22,7 +22,7 @@ This role is pretty simple, and it has only one variable.
 
 ## Licence
 
-BSD
+MIT
 
 ## Feedback? Found a bug? Requests?
 
